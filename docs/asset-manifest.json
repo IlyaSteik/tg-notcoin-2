@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bfb8fe89.css",
+    "main.js": "./static/js/main.05f3ccdb.js",
+    "static/media/FontsFree-Net-SF-Pro-Rounded-Medium.ttf": "./static/media/FontsFree-Net-SF-Pro-Rounded-Medium.293f2af1c6fb8259492f.ttf",
+    "static/media/FontsFree-Net-SF-Pro-Rounded-Black.ttf": "./static/media/FontsFree-Net-SF-Pro-Rounded-Black.1034d2b844c01efe61b7.ttf",
+    "static/media/Manrope-ExtraBold.ttf": "./static/media/Manrope-ExtraBold.5bb6dba8f39b8e88f5f2.ttf",
+    "static/media/Manrope-SemiBold.ttf": "./static/media/Manrope-SemiBold.f5fa9ebad749897c0ec3.ttf",
+    "static/media/VKSansDisplay-DemiBold.ttf": "./static/media/VKSansDisplay-DemiBold.98c85e529139ae9605e5.ttf",
+    "index.html": "./index.html",
+    "main.bfb8fe89.css.map": "./static/css/main.bfb8fe89.css.map",
+    "main.05f3ccdb.js.map": "./static/js/main.05f3ccdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb8fe89.css",
+    "static/js/main.05f3ccdb.js"
+  ]
+}
